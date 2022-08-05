@@ -15,7 +15,7 @@ const Coin = () => {
     }).catch((error) => {
       console.log(error)
     })
-  }, [])
+  })
   return (
     <div className='flex justify-center items-center'>
       <div className="pt-20 p-4 text-[1rem]">
