@@ -1,0 +1,15 @@
+body::-webkit-scrollbar {
+    cursor: pointer;
+    width: 0.5em;
+}
+ 
+body::-webkit-scrollbar-thumb {
+  background-color: #566a9f;
+  outline: 1px solid transparent;
+  border-radius: 2.5rem;
+}
+
+body {
+  background: url(../assets/images/mars.jpg);
+  background-size: cover;
+}
