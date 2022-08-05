@@ -6,6 +6,9 @@
 - React js used
 - Tailwind CSS used
 
+## To see the project
+[crypto tracker website](https://react-crypto-currency-track.netlify.app/)
+
 ## Available Scripts
 
 In the project directory, you can run:
