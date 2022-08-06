@@ -9,6 +9,11 @@
 ## To see the project
 [crypto tracker website](https://react-crypto-currency-track.netlify.app/)
 
+## Preview 
+
+<img src="https://user-images.githubusercontent.com/90236635/183234360-41c50e7e-53f1-420a-95dd-69436fcb9fa3.gif" />
+
+
 ## Available Scripts
 
 In the project directory, you can run:
